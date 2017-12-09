@@ -1,0 +1,10 @@
+Create a specification and if time permits basic implementation for an REST API endpoint that sends emails to clients.
+
+Assume API keys are used to authenticate and that you be using JSON.
+
+You should be able to set the following details:
+first name,
+last name, 
+order details, 
+email address
+email template to use.
